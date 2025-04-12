@@ -11,7 +11,8 @@ public class ActivitySelectionProblem {
         return activity;
     }
     public int getStart() {
-        return start;
+        return   
+        start;
     }
     public int getFinish() {
         return finish;
